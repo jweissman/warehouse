@@ -1,0 +1,16 @@
+.Item {
+  border: 1px solid gray;
+  margin: 2px;
+  padding: 4px;
+  color: black;
+  background-color: #fff;
+  min-width: 200px;
+}
+
+.Item-Attribute {
+  font-size: 11px;
+  text-align: left;
+  margin-left: 4px;
+}
+
+.Note { color: gray; font-size: 9px; }

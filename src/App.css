@@ -1,5 +1,10 @@
 .App {
+  font-size: 62.5%;
+  color: white;
   text-align: center;
+  background-image: url(./images/warehouse.jpg);
+  background-repeat: repeat-y;
+  min-height: 100vh;
 }
 
 .App-logo {
@@ -14,8 +19,8 @@
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  background-color: rgba(60,80,120,0.4);
+  /* min-height: 100vh; */
   display: flex;
   flex-direction: column;
   align-items: center;

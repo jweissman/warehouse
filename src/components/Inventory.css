@@ -1,0 +1,16 @@
+.Inventory {
+  padding: 12px;
+}
+
+.Inventory-Categories {
+  display: flex;
+  flex: row-wrap;
+}
+
+.Inventory-Category { cursor: pointer; }
+
+.Inventory-Items {
+  display: flex;
+  flex: row;
+  flex-wrap: wrap;
+}

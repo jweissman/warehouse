@@ -1,0 +1,11 @@
+.AddItem {
+  text-align: left;
+  color: black;
+  padding: 12px;
+  border: 1px solid gray;
+  background: #fafef0;
+}
+
+.AddAttribute-ItemKind { width: 40px; }
+.Dropdown-root { display: flex; }
+.Dropdown-control { font-size: 10px; }
